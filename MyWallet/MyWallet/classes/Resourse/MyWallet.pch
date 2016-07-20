@@ -1,0 +1,27 @@
+//
+//  MyWallet.pch
+//  MyWallet
+//
+//  Created by 美鑫科技 on 16/6/24.
+//  Copyright © 2016年 MorpLCP. All rights reserved.
+//
+
+
+#ifndef MyWallet_pch
+#define MyWallet_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "GlobalReference.h"
+#import "CPAlertView.h"
+#import "StringUtils.h"
+#import "UserManager.h"
+#import "SystemManager.h"
+#import "HeaderView.h"
+#import "DrawHeaderView.h"
+#import "FinalTools.h"
+#import "BillManager.h"
+#import "PNChart.h"
+#import "UIView+YSTextInputKeyboard.h"
+#endif /* MyWallet_pch */
